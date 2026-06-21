@@ -85,7 +85,7 @@ If you use or discuss this work, please cite it as:
 
 Dmitrochenko, Y. (2026). THE FRAMEWORK 1.0: A Lexicon of Biological Organization: Aging, Regeneration, and Oncogenesis. Israel.
 
-DOI: to be added after Zenodo registration
+DOI: https://doi.org/10.5281/zenodo.20783623
 
 
 DOI and Archiving
