@@ -101,19 +101,6 @@ Suggested license:
 
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-This allows others to share and adapt the work, provided appropriate credit is given to the author.
-
-License file to add:
-
-LICENSE
-
-Recommended text:
-
-Creative Commons Attribution 4.0 International
-https://creativecommons.org/licenses/by/4.0/
-
-
-Disclaimer
 
 This monograph presents theoretical and conceptual scientific hypotheses. It is not intended to provide medical advice, diagnosis, or treatment recommendations.
 
