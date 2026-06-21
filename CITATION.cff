@@ -1,0 +1,10 @@
+cff-version: 1.2.0 
+message: "If you use this monography, please cite it as below." 
+authors: "Yuri Dmitrochenko" 
+family-names: "Dmitrochenko" 
+given-names: "Yuri" 
+title: "Framework-1.0" 
+version: 1.0.0 
+doi: "10.5281/zenodo.20783623" 
+date-released: 2026-06-21 
+url: "https://github.com/YuriDmitrochenko/Framework-1.0.git"
